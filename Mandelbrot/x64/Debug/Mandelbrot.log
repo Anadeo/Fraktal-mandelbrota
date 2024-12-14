@@ -1,0 +1,8 @@
+﻿  Źródło.cpp
+C:\Users\KOMPUTER\source\repos\Fraktale\Mandelbrot\Mandelbrot\Źródło.cpp(77,56): warning C4244: "argument": konwersja z "short" do "Uint8", możliwa utrata danych
+C:\Users\KOMPUTER\source\repos\Fraktale\Mandelbrot\Mandelbrot\Źródło.cpp(77,47): warning C4244: "argument": konwersja z "short" do "Uint8", możliwa utrata danych
+C:\Users\KOMPUTER\source\repos\Fraktale\Mandelbrot\Mandelbrot\Źródło.cpp(77,37): warning C4244: "argument": konwersja z "short" do "Uint8", możliwa utrata danych
+C:\Users\KOMPUTER\source\repos\Fraktale\Mandelbrot\Mandelbrot\Źródło.cpp(180,58): warning C4244: "argument": konwersja z "short" do "Uint8", możliwa utrata danych
+C:\Users\KOMPUTER\source\repos\Fraktale\Mandelbrot\Mandelbrot\Źródło.cpp(180,49): warning C4244: "argument": konwersja z "short" do "Uint8", możliwa utrata danych
+C:\Users\KOMPUTER\source\repos\Fraktale\Mandelbrot\Mandelbrot\Źródło.cpp(180,39): warning C4244: "argument": konwersja z "short" do "Uint8", możliwa utrata danych
+  Mandelbrot.vcxproj -> C:\Users\KOMPUTER\source\repos\Fraktale\Mandelbrot\x64\Debug\Mandelbrot.exe
